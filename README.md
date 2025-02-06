@@ -18,14 +18,27 @@
 
 ---
 
-## 🚀 About Me  
-🔹 Student of Software Engineering @**FAST NUCES**<br>
-🔹 Passionate **DevOps Engineer & Full-Stack Developer**  
-🔹 Skilled in **CI/CD, Kubernetes, Docker, Cloud Infrastructure**  
-🔹 Focused on **scalable web applications & automation**  
+<table>
+  <tr>
+    <td width="50%">
+      <h2>🚀 About Me</h2>
+      <ul>
+        <li>🎓 Student of Software Engineering @ <b>FAST NUCES</b></li>
+        <li>💻 Passionate <b>DevOps Engineer & Full-Stack Developer</b></li>
+        <li>⚙️ Skilled in <b>CI/CD, Kubernetes, Docker, Cloud Infrastructure</b></li>
+        <li>🌍 Focused on <b>scalable web applications & automation</b></li>
+      </ul>
+    </td>
+    <td width="50%">
+      <img src ="https://private-user-images.githubusercontent.com/74038190/250967624-b3fef2db-e671-4610-bb84-1d65533dc5fb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzg4NzgwNjUsIm5iZiI6MTczODg3Nzc2NSwicGF0aCI6Ii83NDAzODE5MC8yNTA5Njc2MjQtYjNmZWYyZGItZTY3MS00NjEwLWJiODQtMWQ2NTUzM2RjNWZiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAyMDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMjA2VDIxMzYwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTEzNzNhYTVkNTVkZThmMjZhNDk3ZDIwNjFiMWE1ZWQxZTc2N2NlNGFmYmY3Mjg0N2QzYTI4ZmVmZDJlOGJiYzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.I4RBehOuqbM0JCu3veifqojPybfvlmdnCpi58LWfpnQ" width="100%"/>
+    </td>
+  </tr>
+</table>
 
 ---
+
 ## 💻 Tech Stack  
+
 
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
